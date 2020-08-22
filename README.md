@@ -20,8 +20,8 @@ cd BaiDuKuaiZhaoSpiderGui
 python SpiderGui.py
 ```
 
-![image](https://github.com/Zhui-CN/BaiDuKuaiZhaoSpiderGui/raw/master/mdimg/img1.png)
+![image](https://raw.githubusercontent.com/Zhui-CN/BaiDuKuaiZhaoSpiderGui/master/mdimg/img1.png)
 
-![image](https://github.com/Zhui-CN/BaiDuKuaiZhaoSpiderGui/raw/master/mdimg/img2.png)
+![image](https://raw.githubusercontent.com/Zhui-CN/BaiDuKuaiZhaoSpiderGui/master/mdimg/img2.png)
 
-![image](https://github.com/Zhui-CN/BaiDuKuaiZhaoSpiderGui/raw/master/mdimg/img3.png)
+![image](https://raw.githubusercontent.com/Zhui-CN/BaiDuKuaiZhaoSpiderGui/master/mdimg/img3.png)
