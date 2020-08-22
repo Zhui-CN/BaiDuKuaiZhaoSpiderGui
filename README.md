@@ -9,7 +9,7 @@
 
 处理已有站点需要单独使用
 
-域名合法性：www.hao123.com (√)   www.hao123.com/ (X)   http://www,hao123.com (X)
+域名合法性：www.hao123.com (√)   www.hao123.com/ (X)   http://www.hao123.com (X)
 
 ### Run
 
@@ -20,8 +20,8 @@ cd BaiDuKuaiZhaoSpiderGui
 python SpiderGui.py
 ```
 
-![使用](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\.git\img\使用.png)
+![使用](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\mdimg\使用.png)
 
-![效果](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\.git\img\效果.png)
+![效果](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\mdimg\效果.png)
 
-![处理已有站点](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\.git\img\处理已有站点.png)
+![处理已有站点](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\mdimg\处理已有站点.png)
