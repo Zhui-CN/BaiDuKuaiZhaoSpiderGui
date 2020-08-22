@@ -20,8 +20,5 @@ cd BaiDuKuaiZhaoSpiderGui
 python SpiderGui.py
 ```
 
-![使用](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\mdimg\使用.png)
 
-![效果](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\mdimg\效果.png)
 
-![处理已有站点](C:\Users\Administrator\Desktop\BaiDuKuaiZhaoSpiderGui\mdimg\处理已有站点.png)
