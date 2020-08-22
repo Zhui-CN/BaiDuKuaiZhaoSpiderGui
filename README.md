@@ -1,0 +1,2 @@
+# BaiDuKuaiZhaoSpiderGui
+附带GUI界面的百度快照爬虫，能按路径保存整页资源，附带死链检测与站点重新修复
